@@ -1,16 +1,17 @@
 {
-	"folders": [
-		{
-			"path": "RESERVATION"
-		},
-		{
-			"path": "COMMANDE"
-		},
-		{
-			"path": "ESB"
-		}
-	],
-	"settings": {
-		"objectscript.conn.active": true
-	}
+    "folders": [
+        {
+            "path": "RESERVATION"
+        },
+        {
+            "path": "COMMANDE"
+        },
+        {
+            "path": "ESB"
+        }
+    ],
+    "settings": {
+        "objectscript.conn.active": true,
+        "workbench.colorTheme": "InterSystems Default Dark Modern"
+    }
 }
